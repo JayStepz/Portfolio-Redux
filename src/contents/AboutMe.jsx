@@ -7,14 +7,14 @@ export default function AboutMe() {
             <div className=''>
               <div className=''>
                 <p className=''>
-                  Hello!
+                  Hello.
                 </p>
               </div>
               <div></div>
               </div>
               <div className=''>
                 <div className=''>
-                  <p>It's a pleasure to make your acquaintance! My name is Jakob Stephens. Welcome to my web page.</p>
+                  <p>My name is Jakob Stephens. Welcome to my web page.</p>
                 </div>
                 <div>
                   <p>I'm a lack-luster excuse of a full stack programming student.</p>
@@ -22,6 +22,7 @@ export default function AboutMe() {
                 </div>
               </div>
           </div>
+          <img src={require('../assets/Profile.jpg')} style={{width: 400, marginLeft: 700}} alt=''/>
         </div>
       );
     };

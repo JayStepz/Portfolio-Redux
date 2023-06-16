@@ -12,7 +12,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
             className={currentPage === 'Landing' ? 'nav-link active' : 'nav-link'}
           >
-            Hello
+            Home
           </a>
         </li>
         <li className="nav-item col-1">
