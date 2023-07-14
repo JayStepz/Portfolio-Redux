@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Redux/static/css/main.55530c1d.css",
+    "main.js": "/Portfolio-Redux/static/js/main.6480da9e.js",
+    "static/media/portfolioscreenshot.png": "/Portfolio-Redux/static/media/portfolioscreenshot.98e60caf2dea46302062.png",
+    "static/media/HoriseonHome.png": "/Portfolio-Redux/static/media/HoriseonHome.01f169fb041685246e03.png",
+    "static/media/Profile.jpg": "/Portfolio-Redux/static/media/Profile.6c132425e06f64c237dc.jpg",
+    "static/media/CaesarGrab.png": "/Portfolio-Redux/static/media/CaesarGrab.362abb7a0d778a8d14df.png",
+    "static/media/project1preview.png": "/Portfolio-Redux/static/media/project1preview.f1d5a4f6ecdd6297e1db.png",
+    "static/media/PokerProjectPreview.JPG": "/Portfolio-Redux/static/media/PokerProjectPreview.47abb94d3d65ee3be799.JPG",
+    "static/media/SelfRoast.jpg": "/Portfolio-Redux/static/media/SelfRoast.bab73c0371519b52c9be.jpg",
+    "static/media/PassGen.JPG": "/Portfolio-Redux/static/media/PassGen.c8733cdffc7a2dae1d48.JPG",
+    "static/media/ShopProj.JPG": "/Portfolio-Redux/static/media/ShopProj.b6584bd805a9ea0236e0.JPG",
+    "index.html": "/Portfolio-Redux/index.html",
+    "main.55530c1d.css.map": "/Portfolio-Redux/static/css/main.55530c1d.css.map",
+    "main.6480da9e.js.map": "/Portfolio-Redux/static/js/main.6480da9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55530c1d.css",
+    "static/js/main.6480da9e.js"
+  ]
+}
